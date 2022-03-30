@@ -1,1 +1,3 @@
 Napravio zaglavlje
+Napravio tijelo
+Napravio zadnji dio
